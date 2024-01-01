@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]">
+  <test name="Command line test 58a6f6ee-86d3-47c4-995c-f69600db3e46">
+    <classes>
+      <class name="org.testing.TestScripts.Final_TC1"/>
+      <class name="org.testing.TestScripts.Final_TC2"/>
+      <class name="org.testing.TestScripts.Final_TC3"/>
+      <class name="org.testing.TestScripts.Final_TC4"/>
+      <class name="org.testing.TestScripts.Final_TC5"/>
+      <class name="org.testing.TestScripts.Final_TC6"/>
+      <class name="org.testing.TestScripts.Final_TC7"/>
+      <class name="org.testing.TestScripts.Final_TC8"/>
+    </classes>
+  </test> <!-- Command line test 58a6f6ee-86d3-47c4-995c-f69600db3e46 -->
+  <test name="Command line test 58a6f6ee-86d3-47c4-995c-f69600db3e46(failed)">
+    <classes>
+      <class name="org.testing.TestScripts.Final_TC2">
+        <methods>
+          <include name="browser_launch"/>
+          <include name="TestCase_TC1_Logout"/>
+          <include name="browser_close"/>
+          <include name="TestCase_TC1_Login"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.Final_TC2 -->
+      <class name="org.testing.TestScripts.Final_TC3">
+        <methods>
+          <include name="browser_launch"/>
+          <include name="TestCase_TC1_Logout"/>
+          <include name="browser_close"/>
+          <include name="TestCase_TC1_Login"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.Final_TC3 -->
+      <class name="org.testing.TestScripts.Final_TC8">
+        <methods>
+          <include name="TestCase_TC1_Logout"/>
+          <include name="browser_launch"/>
+          <include name="TestCase_TC1_Login"/>
+          <include name="browser_close"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.Final_TC8 -->
+      <class name="org.testing.TestScripts.Final_TC1">
+        <methods>
+          <include name="browser_launch"/>
+          <include name="TestCase_TC1_Logout"/>
+          <include name="browser_close"/>
+          <include name="TestCase_TC1_Login"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.Final_TC1 -->
+      <class name="org.testing.TestScripts.Final_TC7">
+        <methods>
+          <include name="browser_launch"/>
+          <include name="TestCase_TC1_Logout"/>
+          <include name="TestCase_TC1_Login"/>
+          <include name="browser_close"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.Final_TC7 -->
+      <class name="org.testing.TestScripts.Final_TC6">
+        <methods>
+          <include name="browser_launch"/>
+          <include name="video_play_and_Comment"/>
+          <include name="TestCase_TC1_Login"/>
+          <include name="browser_close"/>
+          <include name="TestCase_TC1_Logout"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.Final_TC6 -->
+      <class name="org.testing.TestScripts.Final_TC5">
+        <methods>
+          <include name="browser_launch"/>
+          <include name="TestCase_TC1_Login"/>
+          <include name="browser_close"/>
+          <include name="TestCase_TC1_Logout"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.Final_TC5 -->
+      <class name="org.testing.TestScripts.Final_TC4">
+        <methods>
+          <include name="browser_launch"/>
+          <include name="videoplay_and_Like"/>
+          <include name="TestCase_TC1_Logout"/>
+          <include name="browser_close"/>
+          <include name="TestCase_TC1_Login"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.Final_TC4 -->
+    </classes>
+  </test> <!-- Command line test 58a6f6ee-86d3-47c4-995c-f69600db3e46(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

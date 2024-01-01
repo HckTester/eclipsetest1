@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite1">
+  <test thread-count="8" name="Test">
+    <classes>
+      <class name="org.testing.TestScripts.Final_TC8"/>
+      <class name="org.testing.TestScripts.Final_TC6"/>
+      <class name="org.testing.TestScripts.Final_TC7"/>
+      <class name="org.testing.TestScripts.Final_TC4"/>
+      <class name="org.testing.TestScripts.Final_TC5"/>
+      <class name="org.testing.TestScripts.Final_TC2"/>
+      <class name="org.testing.TestScripts.Final_TC3"/>
+      <class name="org.testing.TestScripts.Final_TC1"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
