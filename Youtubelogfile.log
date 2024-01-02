@@ -29,3 +29,23 @@
 2023-12-24 19:23:48 [Final_TC2] (main:) Click on History - Completed
 2023-12-24 19:23:48 [Final_TC2] (main:) Logout process - Started
 2023-12-24 19:23:56 [Final_TC2] (main:) Logout process - Completed
+2023-12-31 22:58:07 [Final_TC1] (main:) Login Started
+2023-12-31 22:58:47 [Final_TC1] (main:) Test Case 1 - Login Successfully - Completed
+2023-12-31 22:58:47 [Final_TC1] (main:) Trending Click process Started
+2023-12-31 22:58:47 [Final_TC1] (main:) Logout process Started
+2023-12-31 22:58:58 [Final_TC1] (main:) Logout Successfully - Completed
+2023-12-31 22:59:01 [Final_TC2] (main:) Login successfully - started
+2023-12-31 22:59:48 [Final_TC2] (main:) Login successfully - Completed
+2023-12-31 22:59:48 [Final_TC2] (main:) Click on History  - Started
+2023-12-31 22:59:48 [Final_TC2] (main:) Logout process - Started
+2023-12-31 22:59:55 [Final_TC2] (main:) Logout process - Completed
+2024-01-01 00:22:50 [Final_TC1] (main:) Login Started
+2024-01-01 00:23:37 [Final_TC1] (main:) Test Case 1 - Login Successfully - Completed
+2024-01-01 00:23:37 [Final_TC1] (main:) Trending Click process Started
+2024-01-01 00:23:37 [Final_TC1] (main:) Logout process Started
+2024-01-01 00:23:47 [Final_TC1] (main:) Logout Successfully - Completed
+2024-01-01 00:23:57 [Final_TC2] (main:) Login successfully - started
+2024-01-01 00:24:35 [Final_TC2] (main:) Login successfully - Completed
+2024-01-01 00:24:35 [Final_TC2] (main:) Click on History  - Started
+2024-01-01 00:24:35 [Final_TC2] (main:) Logout process - Started
+2024-01-01 00:24:43 [Final_TC2] (main:) Logout process - Completed
